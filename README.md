@@ -31,7 +31,14 @@ On the technical side, a few relavant points need to be addressed:
 The webscraping process was successful: we were able to identify precisely the points where to get the information with BeautifulSoup. For that to make sense, though, we needed to automate the process - either manually, which was the case as the data was updated upon request, or automatically (in this case, the server could repeat the process from time to time by itself). Lastly, the scraped data was stored in MongoDB enabling the server to always show the latest information.
 
 ## Modifications
-As part of the Challenge, we were requested to make two modifications using bootstrap. The following pictures show the before/after the changes:
+As part of the Challenge, we were requested to make two modifications using bootstrap. The following pictures show the before/after the changes, the changes were minor, but enough to give an idea how bootstrap works and what can be done.
 
+![JumbotronInitial](/resources/JumbotronInitial.jpg)
+
+![JumbotronFinal](/resources/JumbotronFinal.jpg)
+
+![MarsHemispheresInitial](/resources/MarsHemispheresInitial.jpg)
+
+![MarsHemispheresFinal](/resources/MarsHemispheresFinal.jpg)
 
 
